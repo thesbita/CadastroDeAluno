@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment0.text=\r\n\ Autor\:\ Emanuelle\ Ribeiro\ Thesbita\ Silva\r\n\ Vers\u00E3o\:\ 1.1\r\n\ Data\ 2023/05/23\r\n
+comment1.params=i
+comment1.target=java.lang.String\ getDisciplinas(int)
+comment1.text=\r\n\ getDisciplinas\ -\ retorna\ o\ nome\ da\ disciplina\ \r\n\ \r\n\ @param\ i\ -\ int,\ valor\ da\ posicao\ no\ array\r\n\r\n\ @return\ disciplinas[i],\ String\ da\ disciplina\ na\ posicao\ i\r\n
+comment2.params=i\ disciplina
+comment2.target=boolean\ setDisciplinas(int,\ java.lang.String)
+comment2.text=\r\n\ setDisciplina\ -\ altera\ o\ nome\ da\ Disciplina\r\n\ \r\n\ @return\ boolean\ -\ true\:\ nome\ alterado\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\:\ nome\ nao\ alterado\r\n
+comment3.params=i\ nota
+comment3.target=boolean\ setNota(int,\ double)
+comment3.text=\r\n\ setNota\ -\ altera\ o\ valor\ da\ Nota\r\n\ \r\n\ @return\ boolean\ -\ true\:\ valor\ alterado\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\:\ valor\ nao\ alterado\r\n
+comment4.params=i
+comment4.target=double\ getNota(int)
+comment4.text=\r\n\ getNota\ -\ retorna\ o\ valor\ da\ Nota\r\n\r\n@param\ i\ -\ int,\ valor\ da\ posicao\ no\ array\r\n\r\n@return\ notas[i],\ double\ valor\ da\ nota\ na\ posicao\ i\ do\ array\r\n
+comment5.params=
+comment5.target=java.lang.String\ getCurso()
+comment5.text=\r\n\ getCurso\ -\ retorna\ a\ String\ curso\r\n\r\n@return\ curso,\ String\ que\ contem\ o\ nome\ do\ curso\ do\ aluno\r\n
+comment6.params=curso
+comment6.target=boolean\ setCurso(java.lang.String)
+comment6.text=\r\n\ setCurso\ -\ altera\ o\ valor\ do\ curso\r\n\r\n@return\ boolean\ -\ true\:\ valor\ alterado\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\:\ valor\ nao\ alterado\r\n
+comment7.params=
+comment7.target=void\ limparDisciplina()
+comment7.text=\r\n\ limparDisciplina\ -\ Apaga\ os\ dados\ dos\ atributos\ da\ classe\ Disciplina\r\n\ \r\n
+numComments=8

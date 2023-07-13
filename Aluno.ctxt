@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Aluno
+comment0.text=\r\n\ Autor\:\ Emanuelle\ Ribeiro\ Thesbita\ Silva\r\n\ Vers\u00E3o\:\ 1.1\r\n\ Data\ 2023/05/23\r\n
+comment1.params=
+comment1.target=java.lang.String\ getNomeAutor()
+comment1.text=\r\n\ getNomeAutor\ -\ retorna\ o\ valor\ de\ NomeAutor\r\n\r\n\ @return\ NomeAutor,\ String\ de\ NomeAutor\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRA()
+comment2.text=\r\n\ getRA\ -\ retorna\ o\ valor\ de\ RA\r\n\r\n\ @return\ RA,\ String\ de\ RA\r\n
+comment3.params=rA
+comment3.target=boolean\ setRA(java.lang.String)
+comment3.text=\r\n\ setRA\ -\ altera\ o\ valor\ de\ RA\r\n\ \r\n\ @return\ boolean\ -\ true\:\ valor\ alterado\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\:\ valor\ nao\ alterado\r\n
+comment4.params=
+comment4.target=void\ limparAluno()
+comment4.text=\r\n\ limparAluno\ -\ Apaga\ os\ dados\ do\ Aluno\r\n\ \r\n
+numComments=5

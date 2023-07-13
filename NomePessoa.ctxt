@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NomePessoa
+comment0.text=\r\n\ Autor\:\ Emanuelle\ Ribeiro\ Thesbita\ Silva\r\n\ Vers\u00E3o\:\ 1.1\r\n\ Data\ 2023/05/23\r\n
+comment1.params=txt
+comment1.target=NomePessoa(java.lang.String)
+comment1.text=\r\n\ NomePessoa\ Construtor\ para\ instanciar\ o\ objeto\ do\ tipo\ Texto\r\n\r\n\ @param\ txt\ -\ String,\ nome\ da\ pessoa\r\n
+comment2.params=
+comment2.target=java.lang.String\ nomeAutor()
+comment2.text=\r\n\ nomeAutor\ -\ formata\ o\ nome\ da\ pessoa\ para\ o\ estilo\ bibliografico\r\n\r\n\ @return\ nome\ autor,\ String\ nome\ bibliografico\r\n
+numComments=3

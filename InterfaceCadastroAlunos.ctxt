@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InterfaceCadastroAlunos
+comment0.text=\r\n\ Autor\:\ Emanuelle\ Ribeiro\ Thesbita\ Silva\r\n\ Vers\u00E3o\:\ 1.1\r\n\ Data\ 2023/05/23\r\n
+comment1.params=
+comment1.target=void\ cadastro()
+comment2.params=
+comment2.target=void\ remover()
+comment3.params=
+comment3.target=void\ listar()
+comment4.params=
+comment4.target=void\ sair()
+numComments=5

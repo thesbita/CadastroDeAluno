@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Utils
+comment0.text=\r\n\ Autor\:\ Emanuelle\ Ribeiro\ Thesbita\ Silva\r\n\ Vers\u00E3o\:\ 1.1\r\n\ Data\ 2023/05/23\r\n
+comment1.params=teste
+comment1.target=boolean\ checaStringNull(java.lang.String)
+comment1.text=\r\n\ checaStringNull\ -\ checa\ se\ a\ string\ \u00E9\ null\r\n\ \r\n\ @return\ boolean\ -\ true\:\ String\ null\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\:\ String\ n\u00E3o\ null\r\n
+comment2.params=teste
+comment2.target=boolean\ checaStringVazia(java.lang.String)
+comment2.text=\r\n\ checaStringVazia\ -\ checa\ se\ a\ string\ \u00E9\ vazia\r\n\ \r\n\ @return\ boolean\ -\ true\:\ String\ vazia\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\:\ String\ n\u00E3o\ vazia\r\n
+comment3.params=RA
+comment3.target=boolean\ checaRA(java.lang.String)
+comment3.text=\r\n\ checaRA\ -\ confere\ se\ o\ input\ do\ RA\ esta\ correto.\r\n\ \r\n\ \ @return\ boolean\ -\ true\:\ RA\ correto\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ false\ \:\ RA\ incorreto\r\n
+comment4.params=ra
+comment4.target=java.lang.String\ formatarRA(java.lang.String)
+comment4.text=\r\n\ formatarRA\ -\ formata\ o\ ra\ (colocando\ "ra"\ em\ maiusculo)\r\n\ \r\n\ @return\ RA\ formatado,\ String\ de\ ra\r\n
+numComments=5
